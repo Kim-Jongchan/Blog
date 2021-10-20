@@ -1,8 +1,8 @@
 module.exports = {
   //Basic site information (required)
   name: 'Jongchan.Blog',
-  domain: 'Jongchan.Blog',
-  url: 'https://Jongchan.Blog',
+  domain: 'jongchan.blog',
+  url: 'https://jongchan.blog',
   description: 'Personal blog about life, music, code and more.',
  
 
