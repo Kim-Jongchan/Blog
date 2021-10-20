@@ -1,14 +1,14 @@
 module.exports = {
   // Basic site information (required)
-  name: 'twan.dev',
-  domain: 'twan.dev',
+  name: 'Machine_Learning.with_JC',
+  domain: 'Machine_Learning.with_JC',
   url: 'https://twan.dev',
-  description: 'Twan Kruiswijk personal blog about life, music, code and more.',
-  fathomCode: 'TBSAIDMS',
+  description: 'Personal blog about life, music, code and more.',
+  //fathomCode: 'TBSAIDMS',
 
   // SEO specific (optional)
-  defaultSocialImage:
-    'https://res.cloudinary.com/twankruiswijk/image/upload/v1624446915/twan-dev-social_zzbzzv.jpg',
+  //defaultSocialImage:
+    //'https://res.cloudinary.com/twankruiswijk/image/upload/v1624446915/twan-dev-social_zzbzzv.jpg',
 
   /* 
     Social media URLS (optional)
@@ -19,45 +19,11 @@ module.exports = {
   */
   socials: [
     {
-      name: 'Facebook',
-      url: '',
-      icon: 'SiFacebook',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/twankrui',
-      icon: 'SiTwitter',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://instagram.com/twankrui',
-      icon: 'SiInstagram',
-    },
-    {
       name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/twan-kruiswijk-bb853a71/',
+      url: 'https://www.linkedin.com/in/jongchan-kim/',
       icon: 'SiLinkedin',
     },
-    {
-      name: 'Youtube',
-      url: '',
-      icon: 'SiYoutube',
-    },
-    {
-      name: 'TikTok',
-      url: '',
-      icon: 'SiTiktok',
-    },
-    {
-      name: 'Medium',
-      url: '',
-      icon: 'SiMedium',
-    },
-    {
-      name: 'Twitch',
-      url: 'https://twitch.tv/twankrui',
-      icon: 'SiTwitch',
-    },
+   
   ],
 
   /* 
