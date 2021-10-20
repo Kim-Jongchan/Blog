@@ -19,44 +19,14 @@ module.exports = {
   */
   socials: [
     {
-      name: 'Facebook',
-      url: '',
-      icon: 'SiFacebook',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/twankrui',
-      icon: 'SiTwitter',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://instagram.com/twankrui',
-      icon: 'SiInstagram',
-    },
-    {
       name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/twan-kruiswijk-bb853a71/',
+      url: 'https://www.linkedin.com/in/jongchan-kim/',
       icon: 'SiLinkedin',
     },
     {
-      name: 'Youtube',
-      url: '',
-      icon: 'SiYoutube',
-    },
-    {
-      name: 'TikTok',
-      url: '',
-      icon: 'SiTiktok',
-    },
-    {
       name: 'Medium',
-      url: '',
+      url: 'https://medium.com/@whdcksgogo12',
       icon: 'SiMedium',
-    },
-    {
-      name: 'Twitch',
-      url: 'https://twitch.tv/twankrui',
-      icon: 'SiTwitch',
     },
   ],
 
